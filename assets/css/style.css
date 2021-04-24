@@ -499,7 +499,7 @@ section {
 
 .skills .skills-item .skills-img {
   width: 100px;
-  border-radius: 50%;
+  border-radius: 15%;
   border: 4px solid #fff;
   margin: 0 auto;
 }
