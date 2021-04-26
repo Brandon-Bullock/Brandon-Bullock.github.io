@@ -503,6 +503,7 @@ section {
   background: none;
   border-radius: 0;
   text-align: center;
+  transition: .9s;
 }
 
 .skills .skills-item .skills-img {
